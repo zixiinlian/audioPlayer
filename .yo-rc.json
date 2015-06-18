@@ -1,0 +1,10 @@
+{
+  "generator-web": {
+    "appName": "audio",
+    "includeModernizr": false,
+    "includeUnderscore": false,
+    "includeFontAwesome": false,
+    "includeRespond": false,
+    "includeHtml5shiv": false
+  }
+}

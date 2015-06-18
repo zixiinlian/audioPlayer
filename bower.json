@@ -1,0 +1,9 @@
+{
+  "name": "audio",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1",
+	"bootstrap-sass-official": "~3"
+  },
+  "devDependencies": {}
+}
